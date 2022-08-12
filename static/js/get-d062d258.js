@@ -1,7 +1,0 @@
-import{o as g}from"./index-d57d5484.js";import{d as p,r as c,G as h,as as y,o as r,j as x,g as e,b as o,e as v,c as b,f as L,by as M,h as N,R as k,T as l,_ as G}from"./main-1729a148.js";import{N as R,_ as T}from"./text-f3161f0f.js";import{_ as B}from"./Code-2af336ae.js";import{_ as C}from"./Space-2ec09fed.js";import{b as i}from"./route-block-7ae06361.js";import"./use-compitable-5b33f938.js";const V=l("GET"),w={style:{overflow:"auto"}},E=l("JSON\u7ED3\u679C"),j=p({name:"axios-get"}),u=p({...j,setup(q){const n=c(),s=h(n);y(()=>{g().then(t=>{n.value=t}).catch(t=>{console.log("request->onLogin<MyResponse<MyLogin>>->error",t)})});const d=c(`onLogin<MyResponse<MyLogin>>()
-    .then(res => {
-      // ... ...
-    })
-    .catch((error: any) => {
-      console.log('request->onLogin<MyResponse<MyLogin>>->error', error)
-    })`);return(t,z)=>{const a=T,_=R,f=B,m=C;return r(),x(k,null,[e(_,{prefix:"bar","align-text":"",type:"info"},{default:o(()=>[e(a,{type:"info"},{default:o(()=>[V]),_:1})]),_:1}),v("div",w,[e(m,{vertical:"",size:16},{default:o(()=>[e(f,{code:d.value,language:"javascript","show-line-numbers":""},null,8,["code"])]),_:1})]),e(_,{prefix:"bar","align-text":"",type:"info"},{default:o(()=>[e(a,{type:"info"},{default:o(()=>[E]),_:1})]),_:1}),s?(r(),b(L(M),{key:0,value:s,expanded:!0,"expand-depth":5,theme:"light"},null,8,["value"])):N("",!0)],64)}}});typeof i=="function"&&i(u);const A=G(u,[["__scopeId","data-v-d4488b95"]]);export{A as default};
