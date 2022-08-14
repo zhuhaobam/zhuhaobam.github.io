@@ -1,0 +1,7 @@
+import{a as h}from"./index-62ed879e.js";import{d as l,r as c,F as y,ax as x,o as r,j as g,g as e,b as o,e as v,c as T,f as b,bD as M,h as N,O as k,Q as i,_ as B}from"./main-72de468e.js";import{N as C,_ as P}from"./text-c4dc5999.js";import{_ as R}from"./Code-308b941b.js";import{_ as V}from"./Space-22873787.js";import{b as p}from"./route-block-7ae06361.js";import"./use-compitable-b67ab4d0.js";const w=i("POST"),O={style:{overflow:"auto"}},j=i("JSON\u7ED3\u679C"),q=l({name:"axios-post"}),u=l({...q,setup(D){const n=c(),s=y(n);x(()=>{h().then(t=>{n.value=t}).catch(t=>{console.log("request->onTest<MyResponse<MyTest>>->error",t)})});const f=c(`onTest<MyResponse<MyTest>>()
+    .then(res => {
+      // ... ...
+    })
+    .catch((error: any) => {
+      console.log('request->onTest<MyResponse<MyTest>>->error', error)
+    })`);return(t,E)=>{const a=P,_=C,d=R,m=V;return r(),g(k,null,[e(_,{prefix:"bar","align-text":"",type:"info"},{default:o(()=>[e(a,{type:"info"},{default:o(()=>[w]),_:1})]),_:1}),v("div",O,[e(m,{vertical:"",size:16},{default:o(()=>[e(d,{code:f.value,language:"javascript","show-line-numbers":""},null,8,["code"])]),_:1})]),e(_,{prefix:"bar","align-text":"",type:"info"},{default:o(()=>[e(a,{type:"info"},{default:o(()=>[j]),_:1})]),_:1}),s?(r(),T(b(M),{key:0,value:s,expanded:!0,"expand-depth":5,theme:"light"},null,8,["value"])):N("",!0)],64)}}});typeof p=="function"&&p(u);const A=B(u,[["__scopeId","data-v-737b8f9f"]]);export{A as default};
