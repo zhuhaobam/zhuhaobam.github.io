@@ -1,7 +1,0 @@
-import{a as h}from"./index-e0f14601.js";import{d as i,r as c,F as y,H as x,o as r,k as g,h as e,e as o,f as v,c as T,g as b,bH as M,i as N,S as k,V as l,_ as V}from"./main-b9ea7660.js";import{N as B,_ as C}from"./text-7fe872dd.js";import{_ as P}from"./Code-f44c16a8.js";import{_ as R}from"./Space-c2720402.js";import{b as p}from"./route-block-7ae06361.js";import"./use-compitable-e84e7f8d.js";import"./get-slot-811d317b.js";const w=l("POST"),H={style:{overflow:"auto"}},S=l("JSON\u7ED3\u679C"),q=i({name:"axios-post"}),u=i({...q,setup(E){const n=c(),s=y(n);x(()=>{h().then(t=>{n.value=t}).catch(t=>{console.log("request->onTest<MyResponse<MyTest>>->error",t)})});const f=c(`onTest<MyResponse<MyTest>>()
-    .then(res => {
-      // ... ...
-    })
-    .catch((error: any) => {
-      console.log('request->onTest<MyResponse<MyTest>>->error', error)
-    })`);return(t,F)=>{const a=C,_=B,d=P,m=R;return r(),g(k,null,[e(_,{prefix:"bar","align-text":"",type:"info"},{default:o(()=>[e(a,{type:"info"},{default:o(()=>[w]),_:1})]),_:1}),v("div",H,[e(m,{vertical:"",size:16},{default:o(()=>[e(d,{code:f.value,language:"javascript","show-line-numbers":""},null,8,["code"])]),_:1})]),e(_,{prefix:"bar","align-text":"",type:"info"},{default:o(()=>[e(a,{type:"info"},{default:o(()=>[S]),_:1})]),_:1}),s?(r(),T(b(M),{key:0,value:s,expanded:!0,"expand-depth":5,theme:"light"},null,8,["value"])):N("",!0)],64)}}});typeof p=="function"&&p(u);const K=V(u,[["__scopeId","data-v-737b8f9f"]]);export{K as default};
