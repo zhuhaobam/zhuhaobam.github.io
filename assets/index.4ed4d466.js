@@ -1,0 +1,1 @@
+import{d as o,o as t,k as n}from"./index.210f0541.js";import{b as e}from"./route-block.78efdbad.js";const s=o({name:"system-user"}),r=o({...s,setup(u){return(a,c)=>(t(),n("div",null,"\u4E2A\u4EBA\u4E2D\u5FC3"))}});typeof e=="function"&&e(r);export{r as default};
