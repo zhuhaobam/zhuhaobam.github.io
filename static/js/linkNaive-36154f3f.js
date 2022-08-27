@@ -1,0 +1,1 @@
+import{d as o,o as n,l as t}from"./main-abb3ae7c.js";import{b as e}from"./route-block-7ae06361.js";const a=o({name:"linkNaive"}),c=o({...a,setup(i){return(l,r)=>(n(),t("div",null,"linkNaive"))}});typeof e=="function"&&e(c);export{c as default};
