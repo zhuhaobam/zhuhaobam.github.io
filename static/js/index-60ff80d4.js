@@ -1,1 +1,0 @@
-import{d as o,e as s,m as a,t as r}from"./main-25752506.js";import{b as t}from"./route-block-7ae06361.js";const c=o({name:"id"}),i=o({...c,props:{id:null},setup(e){const n=e;return(p,l)=>(s(),a("div",null,"AAAAAAAAAA"+r(n.id),1))}});typeof t=="function"&&t(i);export{i as default};

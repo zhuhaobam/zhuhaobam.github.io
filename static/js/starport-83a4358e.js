@@ -1,1 +1,0 @@
-import{d as e,x as n,e as r,f as s}from"./main-25752506.js";import{b as o}from"./route-block-7ae06361.js";const a=e({name:"starport"}),c=e({...a,setup(p){return(_,f)=>{const t=n("RouterView");return r(),s(t)}}});typeof o=="function"&&o(c);export{c as default};
