@@ -1,1 +1,0 @@
-import{d as e,o as t,k as r}from"./index.bffd7379.js";import{b as o}from"./route-block.78efdbad.js";const n=e({name:"first-second-third-flower"}),f=e({...n,setup(c){return(s,a)=>(t(),r("div",null,"thirdfloor->flower"))}});typeof o=="function"&&o(f);export{f as default};
