@@ -1,1 +1,0 @@
-import"./AppMain.vue_vue_type_script_setup_true_name_appMain_lang-2736a237.js";import{_ as t}from"./AppMain.vue_vue_type_script_setup_true_name_appMain_lang-2736a237.js";import"./main-b7c9a53e.js";export{t as default};
