@@ -1,0 +1,1 @@
+import{d as e,C as n,o as r,k as a}from"./main-9ba4ca0c.js";import{b as o}from"./route-block-7ae06361.js";const c=e({name:"drawing-drauu"}),s=e({...c,setup(_){return(p,u)=>{const t=n("RouterView");return r(),a(t)}}});typeof o=="function"&&o(s);export{s as default};
