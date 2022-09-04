@@ -1,0 +1,1 @@
+import{d as o,a5 as n,e as r,f as a}from"./main-291f3adb.js";import{b as e}from"./route-block-7ae06361.js";const c=o({name:"drawing"}),s=o({...c,setup(_){return(p,f)=>{const t=n("RouterView");return r(),a(t)}}});typeof e=="function"&&e(s);export{s as default};
