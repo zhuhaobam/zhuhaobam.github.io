@@ -1,0 +1,1 @@
+import{d as e,a6 as n,e as a,f as r}from"./main-69cbe56a.js";import{b as o}from"./route-block-7ae06361.js";const s=e({name:"dashboard"}),c=e({...s,setup(_){return(p,f)=>{const t=n("RouterView");return a(),r(t)}}});typeof o=="function"&&o(c);export{c as default};
