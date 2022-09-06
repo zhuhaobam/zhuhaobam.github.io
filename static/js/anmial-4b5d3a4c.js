@@ -1,0 +1,1 @@
+import{d as o,e as t,v as n}from"./main-720f94e2.js";import{b as e}from"./route-block-7ae06361.js";const a=o({name:"first-second-third-anmial"}),r=o({...a,setup(c){return(i,s)=>(t(),n("div",null,"thirdfloor->anmial"))}});typeof e=="function"&&e(r);export{r as default};
