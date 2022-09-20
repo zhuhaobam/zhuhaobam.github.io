@@ -1,0 +1,1 @@
+import{d as t,e as n,v as o}from"./main-2bbc1e4d.js";import{b as e}from"./route-block-7ae06361.js";const a=t({name:"linkGitHub"}),c=t({...a,setup(i){return(r,l)=>(n(),o("div",null,"linkGitHub"))}});typeof e=="function"&&e(c);export{c as default};

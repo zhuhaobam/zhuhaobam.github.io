@@ -1,0 +1,1 @@
+import{d as e,e as n,v as t}from"./main-2bbc1e4d.js";import{b as o}from"./route-block-7ae06361.js";const c=e({name:"first-second-seconddo"}),s=e({...c,setup(r){return(a,d)=>(n(),t("div",null,"secondfloor->youdodo"))}});typeof o=="function"&&o(s);export{s as default};
